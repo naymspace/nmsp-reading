@@ -1,0 +1,1 @@
+This is the result of the static site generation over at https://github.com/naymspace/nmsp-reading-elm
