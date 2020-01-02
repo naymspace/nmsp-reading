@@ -1,0 +1,6 @@
+
+
+## Internal Newsletter 
+
+* __[Efficient js](https://www.youtube.com/watch?v=ff4fgQxPaO0)__, don't laugh. Apparently `let x = JSON.parse('{"bla": 3}');` is better then `let x = { bla: 3 };` in regards to performance. Who knew.
+* __[Build process optimizations](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)__, but on steroids. Kind of.
